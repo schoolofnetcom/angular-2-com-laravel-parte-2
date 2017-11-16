@@ -1,19 +1,13 @@
 # Angular and Webpack Skeleton
 
-## Install
+## Instalação
 
-Clone this repository, remove .git dir and run `npm install`
+Clone este repositório (ou baixe) e rode `npm install`
 
-## Usage
 
-Create your app in src diretory.
+## Correções
 
-Commands:
+Após o curso alguns recursos foram depreciados ou sofreram atualizações, neste caso enviei um pack de correções conforme este tópico no forum da School of Net:
 
- - `npm start` - run developer server in port 8080
- - `npm run build` - run de build tasks to production (in **dist** directory)
- - `npm test` - run de tests
+[https://www.schoolofnet.com/forum/topico/erro-ao-instalar-o-angularcli-1754](https://www.schoolofnet.com/forum/topico/erro-ao-instalar-o-angularcli-1754)
 
-## Contributing
-
-Only send PRs to this repository.
